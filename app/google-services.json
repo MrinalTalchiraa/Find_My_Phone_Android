@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "24553682909",
+    "project_id": "find-my-phone-9840c",
+    "storage_bucket": "find-my-phone-9840c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24553682909:android:1e796f25993ebd7e9e2834",
+        "android_client_info": {
+          "package_name": "com.appentusapp.findphone.works"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24553682909-aorq6epcqe7hkn0jclfuorgfb0ksjtqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appentusapp.findphone.works",
+            "certificate_hash": "d8a0d67210e5a753765a90d125f5d9b96f16dfaf"
+          }
+        },
+        {
+          "client_id": "24553682909-je541c0aqvpon4gt9fj84q25q841dsb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQUOW4CvNoU5QGEXNjgPOaoe5c1SxK_NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24553682909-je541c0aqvpon4gt9fj84q25q841dsb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
