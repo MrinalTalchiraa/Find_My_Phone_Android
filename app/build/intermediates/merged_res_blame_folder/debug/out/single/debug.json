@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_maps1_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_maps1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_maps1_foreground.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_maps1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_thisdeviceinfo.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\thisdeviceinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_maps_foreground.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xhdpi\\logo_maps_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_maps1_foreground.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-mdpi\\logo_maps1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\menu_map_options.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\menu\\map_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_place.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\place.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_trackemailshow.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\trackemailshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_forgot_pass.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\layout_forgot_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_appbar3.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout-v26\\appbar3.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_address.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\address.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_maps.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xhdpi\\logo_maps.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_maps.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_maps.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_maps1.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_maps1.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo_maps_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\logo_maps_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_maps.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_maps.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_maps.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonround4.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\buttonround4.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_maps_foreground.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_maps_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_backk.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\backk.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_signup_fragment.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\fragment_signup_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_appbar4.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout-v26\\appbar4.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fb.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_maps.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-hdpi\\logo_maps.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_screen_home.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\add_screen_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_emailentry.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\emailentry.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_forgotpassword.jpg.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\forgotpassword.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_maps1_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-mdpi\\logo_maps1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_buttonround22.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\buttonround22.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_appbar5.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout-v26\\appbar5.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_maps1_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_maps1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonround21.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\buttonround21.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_subs.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\subs.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setings.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\setings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_trackofphone.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\trackofphone.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_addbtn.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\addbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_maps_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xhdpi\\logo_maps_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_rounded_corners.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\custom_rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_restaurant.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\restaurant.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smartphone.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\smartphone.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_appbar.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\bg_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_maps_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_maps_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myphone.jpg.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\myphone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_maps1_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-hdpi\\logo_maps1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_maps_background.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\logo_maps_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_subscriptions.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\subscriptions.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_refresh_24.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\ic_baseline_refresh_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_round.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pic1.jpg.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\pic1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_maps1_round.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_maps1_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_search.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_anotherphone.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\anotherphone.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logouts.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\logouts.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_privacy.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\privacy.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_maps1_foreground.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-hdpi\\logo_maps1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_maps_foreground.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_maps_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_map1.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\logo_map1.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_maps_round.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_maps_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\raw_map_style.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\raw\\map_style"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonround.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\buttonround.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_nav_selector.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\nav_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_anotherphoneinfo.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\anotherphoneinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_buttonround3.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\buttonround3.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_address.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\my_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_maps_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_maps_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_map.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\logo_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_maps_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-mdpi\\logo_maps_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_appbar33.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout-v26\\appbar33.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_maps_foreground.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-mdpi\\logo_maps_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_maps1_foreground.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xhdpi\\logo_maps1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_maps1_foreground.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_maps1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonround2.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\buttonround2.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_maps_foreground.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-hdpi\\logo_maps_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_shape.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_maps.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-mdpi\\logo_maps.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_insta.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\menu_sidemenu.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\menu\\sidemenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_maps1_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xhdpi\\logo_maps1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shopping.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable\\shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_phoneshow.png.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\drawable-v24\\phoneshow.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\HP\\Documents\\mrinal\\PhoneTracker_13sep\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    }
+]

@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Find My Phone</string>
     <string name="map">Map</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7984324842137246/5310886408</string>
+    <string name="admob_app_fullscreen_id">ca-app-pub-7984324842137246/8210428209</string>
+    <string name="admob_app_id">ca-app-pub-7984324842137246~6582771326</string>
 
 
     <string name="maps">maps</string>

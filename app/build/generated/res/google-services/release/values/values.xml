@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">24553682909-je541c0aqvpon4gt9fj84q25q841dsb7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">24553682909</string>
+    <string name="google_api_key" translatable="false">AIzaSyAQUOW4CvNoU5QGEXNjgPOaoe5c1SxK_NU</string>
+    <string name="google_app_id" translatable="false">1:24553682909:android:1e796f25993ebd7e9e2834</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAQUOW4CvNoU5QGEXNjgPOaoe5c1SxK_NU</string>
+    <string name="google_storage_bucket" translatable="false">find-my-phone-9840c.appspot.com</string>
+    <string name="project_id" translatable="false">find-my-phone-9840c</string>
+</resources>

@@ -8,7 +8,6 @@ import android.content.Context
 import android.content.DialogInterface
 import android.content.Intent
 import android.content.pm.ActivityInfo
-import android.content.res.Resources
 import android.graphics.Bitmap
 import android.graphics.Canvas
 import android.graphics.drawable.Drawable
@@ -18,7 +17,6 @@ import android.os.Build
 import android.os.Bundle
 import android.os.PowerManager
 import android.provider.Settings
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.Menu
 import android.view.MenuItem
@@ -30,6 +28,7 @@ import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.google.android.gms.ads.*
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.OnMapReadyCallback
@@ -60,7 +59,6 @@ import mumayank.com.airlocationlibrary.AirLocation
 import org.json.JSONObject
 import java.math.BigDecimal
 import java.util.*
-import kotlin.collections.ArrayList
 import kotlin.system.exitProcess
 
 
@@ -96,10 +94,15 @@ open class MainActivity : AppCompatActivity(), OnMapReadyCallback, View.OnClickL
     private var mcountry: String = ""
     private var mpostalCode: String = ""
     private lateinit var recyclerView1: RecyclerView
-
+    lateinit var adView : AdView
+    lateinit var adView2 : AdView
+    lateinit var adView3 : AdView
+    lateinit var adRequest : AdRequest
+    private var mInterstitialAd: InterstitialAd? = null
 
     private var firebaseUser: FirebaseUser? = null
     private lateinit var toolbar: androidx.appcompat.widget.Toolbar
+
 
     @RequiresApi(Build.VERSION_CODES.O)
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -120,6 +123,27 @@ open class MainActivity : AppCompatActivity(), OnMapReadyCallback, View.OnClickL
         spaceNavigationView.addSpaceItem(SpaceItem("This Device", R.drawable.phone))
         spaceNavigationView.addSpaceItem(SpaceItem("Tracking Device", R.drawable.anotherphone))
         spaceNavigationView.isSelected = false
+
+        adRequest = AdRequest.Builder().build()
+
+        adView = findViewById<View>(R.id.adView) as AdView
+
+        adView.loadAd(adRequest)
+
+
+
+        adView.adListener = object : AdListener(){
+
+            override fun onAdLoaded() {
+                super.onAdLoaded()
+                val toastMessage: String = "ad loaded"
+//                Toast.makeText(applicationContext, toastMessage.toString(), Toast.LENGTH_LONG).show()
+            }
+
+        }
+
+
+
 
 
         firebaseUser = FirebaseAuth.getInstance().currentUser
@@ -212,9 +236,22 @@ open class MainActivity : AppCompatActivity(), OnMapReadyCallback, View.OnClickL
                             val inflater = LayoutInflater.from(this@MainActivity)
                             var view2: View = inflater.inflate(R.layout.thisdeviceinfo, null)
 
+                            adView2 = view2.adView2
+                            adRequest = AdRequest.Builder().build()
+                            adView2.loadAd(adRequest)
+
+                            adView2.adListener = object : AdListener(){
+                                override fun onAdLoaded() {
+                                    super.onAdLoaded()
+                                    val toastMessage: String = "ad loaded"
+//                                    Toast.makeText(applicationContext, toastMessage.toString(), Toast.LENGTH_LONG).show()
+                                }
+                            }
+
+
                             view2.model.setText(android.os.Build.MODEL)
                             FirebaseDatabase.getInstance().reference.child("users").child(
-                                firebaseUser!!.uid
+                            firebaseUser!!.uid
                             )
                                 .addListenerForSingleValueEvent(
                                     object : ValueEventListener {
@@ -306,6 +343,20 @@ open class MainActivity : AppCompatActivity(), OnMapReadyCallback, View.OnClickL
 
                         val bottomsheet: BottomSheetDialog = BottomSheetDialog(this@MainActivity)
                         val view: View = layoutInflater.inflate(R.layout.anotherphoneinfo, null)
+                        adView3 =  view.adView3
+
+                        adRequest = AdRequest.Builder().build()
+                        adView3.loadAd(adRequest)
+
+                        adView3.adListener = object : AdListener(){
+                            override fun onAdLoaded() {
+                                super.onAdLoaded()
+                                val toastMessage: String = "ad loaded"
+//                                Toast.makeText(applicationContext, toastMessage.toString(), Toast.LENGTH_LONG).show()
+                            }
+                        }
+
+
                         view.cardaddemails.setOnClickListener {
                             FirebaseDatabase.getInstance().reference.child("users")
                                 .child(firebaseUser!!.uid).addListenerForSingleValueEvent(
@@ -1457,18 +1508,13 @@ open class MainActivity : AppCompatActivity(), OnMapReadyCallback, View.OnClickL
     }
 
 
-    override fun onDestroy() {
-        super.onDestroy()
-
-
-        stopService(Intent(this, PayPalService::class.java))
-
-
-    }
 
 
     override fun onResume() {
         super.onResume()
+        if (adView != null) {
+            adView.resume();
+        }
         askforlocations()
         checkBattery()
         refreshgps()
@@ -1477,8 +1523,34 @@ open class MainActivity : AppCompatActivity(), OnMapReadyCallback, View.OnClickL
 
     override fun onStart() {
         super.onStart()
+
         askforlocations()
         checkBattery()
+        adRequest = AdRequest.Builder().build()
+        MobileAds.initialize (this, getString (R.string.admob_app_id))
+        mInterstitialAd = InterstitialAd(this)
+        mInterstitialAd!!.setAdUnitId(getString(R.string.admob_app_fullscreen_id))
+        mInterstitialAd!!.loadAd(adRequest)
+        mInterstitialAd!!.setAdListener(object : AdListener() {
+            override fun onAdLoaded() {
+                mInterstitialAd!!.show()
+            }
+
+        })
+    }
+    override fun onPause() {
+        if (adView!=null) {
+            adView.pause();
+        }
+        super.onPause()
+    }
+
+    override fun onDestroy() {
+        if (adView != null) {
+            adView.destroy();
+        }
+        super.onDestroy();
+        stopService(Intent(this, PayPalService::class.java))
     }
 
     private fun askforlocations() {

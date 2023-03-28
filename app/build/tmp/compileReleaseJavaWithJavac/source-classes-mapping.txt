@@ -1,0 +1,2 @@
+com/appentusapp/findphone/works/BuildConfig.java
+ com.appentusapp.findphone.works.BuildConfig

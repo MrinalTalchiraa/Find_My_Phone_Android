@@ -9,6 +9,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.EditText
 import android.widget.Toast
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.AdView
 import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.main.fragment_login.*
@@ -17,8 +19,9 @@ import kotlinx.android.synthetic.main.layout_forgot_pass.view.*
 
 
 class Login : Fragment() {
-private lateinit var mAuth:FirebaseAuth
-private lateinit var emails:String
+
+    private lateinit var mAuth:FirebaseAuth
+    private lateinit var emails:String
     private lateinit var password:String
 
     override fun onCreateView(
@@ -31,10 +34,9 @@ private lateinit var emails:String
         mAuth= FirebaseAuth.getInstance()
         emails=view.email.text.toString().trim()
         password=view.password_login.text.toString().trim()
+
         view.login_btn.setOnClickListener {
-
             loginUser()
-
         }
 
         view.orr.setOnClickListener {
@@ -44,7 +46,6 @@ private lateinit var emails:String
 
 
             v.forbtn.setOnClickListener {
-
                 recoverpassword(v)
             }
             bottomSheetDialog.setContentView(v)
